@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersncrypt",
+        "uuid": 16213436,
+        "checksum": "isbohi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
